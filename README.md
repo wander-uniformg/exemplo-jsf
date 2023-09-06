@@ -1,18 +1,18 @@
 # Projeto de exemplo com JSF - 2023
 
-## Requisitos:
+### Requisitos:
 
 1. JDK 11
 2. JSF 3.0
 3. Java EE: Jakarta EE 9
 4. GlassFish Server 6.2.1
 
-## Bibliotecas necessárias:
+### Bibliotecas necessárias:
 
 1. Jakarta EE Web 9 API Library
 2. Jakarta EE 9 API Library
 
-## Configurações
+### Configurações
 
 - context-param-name: jakarta.faces.DEFAULT_SUFFIX
 - context-param-value: .xhtml
