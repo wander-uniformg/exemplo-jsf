@@ -21,3 +21,5 @@
 - resource-env-ref-name: BeanManager
 - resource-env-ref-type: jakarta.enterprise.inject.spi.BeanManager
 - web-app version: 5.0
+
+## Alteração
